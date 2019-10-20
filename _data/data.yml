@@ -1,0 +1,148 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: So Young Ro
+    tagline: Web Designer&Publisher
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: soyoungnoh@naver.com
+    # phone: (+82) 10 9133 0900
+    # website: kidrose91.dothome.co.kr/dior #do not add http://
+    linkedin: 
+    github: sozero
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Korean
+        level: Native
+      - idiom: English
+        level: Medium
+
+    interests:
+      - item: Singing
+        # link:
+
+      - item: Pilates
+        # link:
+
+      - item: Cooking
+        # link:
+
+career-profile:
+    title: Web Designer/Web Publisher
+    summary: |
+      PC/Mobile 반응형 Design    
+      PC/Mobile Design 구현    
+      WebSite UXUI 기능구현
+      
+
+education:
+    - degree: 그린컴퓨터아카데미
+      university: 수료
+      time: 2017.5 - 2017.10
+
+    - degree: Northen Virginia Community College
+      university:  수료
+      time: 2014.8 - 2015.8
+      
+    - degree: 경북대학교
+      university: 졸업_학사
+      time: 2009.3 - 2016.2
+
+
+experiences:
+
+    - role: 기획실 / 웹디자이너 / 사원
+      time: 2018.6 - 2019.6
+      company: (주)무궁
+      details: |
+        - 디자인 업무 총괄
+        - 랜딩페이지 제작
+        - 온라인 홍보물 제작
+        - sns광고 디자인 및 홍보 (블로그,인스타그램,페이스북, 밴드)
+        - 인쇄물 디자인 (전단지, 현수막)
+        - 자체 갤러리 홍보
+        - 행사총괄
+        - 사내 이벤트 진행 
+
+    - role: 공연기획팀 / 사원
+      time: 2017.3 - 2017.4
+      company: 국립오페라단
+      details: |
+        - 프로덕션 운영 ≪외투&팔리아치≫ 2017년 4월
+        - 기본계획 수립 및 집행 결과
+        - 공연단 계약 및 프로덕션 일정 조율
+        - 제작진 의견 조율 및 리허설 운영 총괄
+        - 악보 및 악기 렌탈 진행
+        - 대본 및 자막 총괄 등 프로덕션 전반 업무 진행
+        - 출연자 숙소 및 항공권 진행
+        - 정기공연 대관 업무보조
+        - 출연자오디션(성악가, 무용수) 진행
+        - 캐스팅 관련 해외 에이전시 컨택 및 진행
+
+    - role: 공연기획팀 / 인턴
+      time: 2016.3-2017.2
+      company: 국립오페라단
+      details: |
+        - 프로덕션 사업별 운영 보조
+        - 공연단 계약 및 프로덕션 일정 조율
+        - 출연자오디션(성악가, 무용수) 진행
+        - 아티스트 항공,숙박 비자관련 해외 에이전시 컨택 및 서류업무 진행
+        - 제작진 의견 조율 및 리허설 운영보조
+        - 아티스트 입국 및 공연단체 리허설 관리
+        - 악보 및 악기 렌탈 진행
+        - 대본 및 자막, 프로그램북등 프로덕션 전반 업무보조
+        - 자문회의 및 지명 오디션 운영
+        - 공연장 출연자 케이터링
+        - 아티스트 프로필 취합 정리, 공연단 보험 가입
+        
+projects:
+    title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Dior
+        link: "http://kidrose91.dothome.co.kr/dior/"
+        tagline: "(개인프로젝트) Dior 홈페이지 리뉴얼 퍼블리싱"
+        
+      - title: Dior Renewal Layout 
+        link: "https://ovenapp.io/view/zjumLrCEV1LHHCLnBy7WeeZm2AxEAk1u/SNJg0"
+        tagline: "(개인프로젝트) Dior 홈페이지 리뉴얼 기획.레이아웃"
+        
+      - title: 미래퀵전국물류
+        link: "http://kidrose91.dothome.co.kr/movingcompany/"
+        tagline: "(개인프로젝트) 미래퀵전국물류 퍼블리싱"
+        
+#       - title: 미래퀵전국물류
+#         link: "http://kidrose91.dothome.co.kr/movingcompany/"
+#         tagline: "(개인프로젝트) 미래퀵전국물류 퍼블리싱"   
+
+      
+skills:
+    title: Skills &amp; Proficiency
+    toolset:
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: Javascript & jQuery
+        level: 70%
+
+      - name: Illurstration & Photoshop
+        level: 90%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
