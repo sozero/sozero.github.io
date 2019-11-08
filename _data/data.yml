@@ -127,14 +127,6 @@ projects:
         link: "http://kidrose91.dothome.co.kr/movingcompany/"
         tagline: "(개인프로젝트) 미래퀵전국물류 퍼블리싱"
         
-#       - title: (반응형 홈페이지) 웨딩드레스 홈페이지 제작
-#         link: "http://kidrose91.dothome.co.kr/wedding/"
-#         tagline: "(개인프로젝트) 웨딩드레스 홈페이지 기획,디자인,퍼블리싱"   
-      
-#       - title: (반응형 홈페이지) 젠가
-#         link: "http://kidrose91.dothome.co.kr/zenga/"
-#         tagline: "(개인프로젝트) 젠가 리뉴얼 기획,디자인,퍼블리싱" 
-        
       - title: (반응형 홈페이지) 톰포드
         link: "http://kidrose91.dothome.co.kr/tomford/"
         tagline: "(개인프로젝트) 톰포드 리뉴얼 기획,디자인,퍼블리싱" 
@@ -149,13 +141,16 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: HTML5 & CSS
-        level: 80%
+        level: 90%
 
       - name: Javascript & jQuery
         level: 70%
+        
+      - name: Bootstrap
+        level: 50%
 
       - name: Illurstration & Photoshop
-        level: 90%
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
