@@ -112,13 +112,17 @@ projects:
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: (반응형 홈페이지) Dior
-        link: "http://kidrose91.dothome.co.kr/dior/"
-        tagline: "(기여도:100% / 개인프로젝트) Dior 홈페이지 리뉴얼 퍼블리싱"
-        
       - title: Dior Renewal Layout 
         link: "https://ovenapp.io/view/zjumLrCEV1LHHCLnBy7WeeZm2AxEAk1u/SNJg0"
         tagline: "(기여도:100% / 개인프로젝트) Dior 홈페이지 리뉴얼 기획.레이아웃"
+      
+      - title: Dior Renewal UI/UX Design
+        link: "http://kidrose91.dothome.co.kr/diorsian/"
+        tagline: "(기여도:100% / 개인프로젝트) Dior 홈페이지 리뉴얼 기획.레이아웃"
+        
+      - title: (반응형 홈페이지) Dior
+        link: "http://kidrose91.dothome.co.kr/dior/"
+        tagline: "(기여도:100% / 개인프로젝트) Dior 홈페이지 리뉴얼 퍼블리싱"
         
       - title: (반응형 홈페이지) 미래퀵전국물류
         link: "http://kidrose91.dothome.co.kr/movingcompany/"
